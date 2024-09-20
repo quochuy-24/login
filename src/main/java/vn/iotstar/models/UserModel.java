@@ -93,5 +93,5 @@ public class UserModel implements Serializable{
 				+ ", username=" + username + ", password=" + password + ", roleid=" + roleid + ", phone=" + phone
 				+ ", createdate=" + createdate + "]";
 	}
-
+	
 }
